@@ -1,12 +1,41 @@
+body, td, a, p {
+	font-family: arial,sans-serif;
+}
+
 header {
-    background-color: coral;
-    padding: 2.5% 5%;
+    background: white;
+    top: 0px;
+    padding: 15px 20px;
+    min-width: 980px;
+}
+
+nav {
+    font-size: 13px;
+}
+
+li {
+    display: inline;
+    padding: 8px;
+}
+
+a {
+    color: #525252;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
 }
 
 section {
-    background-color: green;
+    background: green;
 }
 
 footer {
-    background-color: rgb(183, 183, 255);
+    background: #f2f2f2;
+    bottom: 0px;
+    position: absolute;
+    line-height: 40px;
+    min-width: 980px;
+    border-top: 1px solid #e4e4e4;
 }
