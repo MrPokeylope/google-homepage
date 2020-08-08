@@ -1,1 +1,1 @@
-Will add more here later
+Recreating the Google homepage for The Odin Project
